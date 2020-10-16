@@ -1,2 +1,4 @@
 # Coursera_Capstone
-Rep for Coursera Capstone - Applied Data Science
+Repository for Coursera Capstone - Applied Data Science
+
+This repo is for the code and data to complete the capstone. 
